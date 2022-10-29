@@ -10,7 +10,9 @@
 
 
 ## To Build
-- ```sudo docker build -t prateektl/expressJS:0.1.DEV . ```
+- ```sudo docker build -t prateektl/expressjs:0.1.DEV . ```
 
 ## To Run
-- ```sudo docker run -p 3000:3000 prateektl/expressJS:0.1.DEV```
+- ```sudo docker run -p 3000:3000 prateektl/expressjs:0.1.DEV```
+
+Note : repository name must be lowercase (reffering to tag and image name)
